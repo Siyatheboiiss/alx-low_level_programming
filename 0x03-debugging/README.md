@@ -1,1 +1,1 @@
-This project is about debugging
+0x03. C - Debugging
